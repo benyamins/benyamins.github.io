@@ -1,0 +1,32 @@
+baseURL = 'benyamins.github.io'
+languageCode = 'en-us'
+title = 'Benyamins Personal Site'
+theme = "PaperMod"
+
+[params]
+defaultTheme = "dark"
+
+[params.profileMode]
+enabled = true
+title = "Benyamins R. Site"
+subtitle = "If we can call it that"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/benjamín-rosales-448204a2"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/benyamins"
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "archives"
+url = "/archives"
+weight = 20
