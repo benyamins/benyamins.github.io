@@ -1,4 +1,4 @@
-baseURL = 'benyamins.github.io'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Benyamins Personal Site'
 theme = "PaperMod"
