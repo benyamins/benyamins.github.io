@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Benyamins Personal Site'
+title = 'B'
 theme = "PaperMod"
 
 [params]
@@ -8,7 +8,7 @@ defaultTheme = "dark"
 
 [params.profileMode]
 enabled = true
-title = "Benyamins R. Site"
+title = "Benjamin's Site"
 subtitle = "If we can call it that"
 
 [[params.socialIcons]]
