@@ -1,5 +1,5 @@
 ---
-title: "Chilen Public Access APIs"
+title: "Chilean Public Access APIs"
 date: 2021-12-07T13:12:33-03:00
 draft: false
 ---
